@@ -30,7 +30,7 @@ APK
 
 ## 快速开始
 
-下载 `release_v0.2/Harness-v0.2.apk`，安装到 arm64 Android 8.0+ 设备：
+从 GitHub Releases 下载 `Harness-v0.2.apk`，安装到 arm64 Android 8.0+ 设备：
 
 ```bash
 adb install -r Harness-v0.2.apk
