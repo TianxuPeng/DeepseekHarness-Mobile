@@ -1,0 +1,15 @@
+# build inputs and outputs
+runtime/
+assets/engine.zip
+out/
+build/debug.keystore
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# local tooling
+.idea/
+.vscode/
+*.log
+__pycache__/
