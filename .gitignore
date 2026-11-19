@@ -1,5 +1,6 @@
 # build inputs and outputs
-runtime/
+runtime/*
+!runtime/README.md
 assets/engine.zip
 out/
 build/debug.keystore
